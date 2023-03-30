@@ -1,4 +1,4 @@
-package linkedlist;
+//package linkedlist;
 
 /**
  * This class models a Node object which contains type T. Each
