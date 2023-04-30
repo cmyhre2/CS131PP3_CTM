@@ -1,6 +1,4 @@
-package main;
-import linkedlist.GenericNode;
-import linkedlist.GenericLinkedList;
+
 
 public class TestLinkedList {
 
